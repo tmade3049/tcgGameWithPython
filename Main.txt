@@ -1,1 +1,0 @@
-./Debug/src_Main.cpp.o ./Debug/src_TextureManager.cpp.o ./Debug/src_Game.cpp.o ./Debug/src_Player.cpp.o ./Debug/src_GameObject.cpp.o   
